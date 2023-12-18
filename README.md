@@ -12,6 +12,10 @@
   <a href="https://www.linkedin.com/in/martiniano-gomes-7953801b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<!-- 
+Guia básico de MarkDown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+-->
+
 <!--
 **MartinianoGomes/MartinianoGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
