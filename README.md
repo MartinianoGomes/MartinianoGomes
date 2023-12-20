@@ -2,7 +2,6 @@
 
 - 🏫 Graduando em Sistemas de Informação
 - ⚡ Programação e tecnologias
-- 👤 Ele/dele
 - 📫 Maranhão <-> Pará
 
 <div>
