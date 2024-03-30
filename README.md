@@ -4,7 +4,7 @@
 📫 Maranhão <-> Pará <br>
 
 <div>
-  <img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Profile%20Views&color=12&icon=5&pretty=true"/>
+  <img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Visualizações%20do%20perfil&color=12&icon=5&pretty=true"/>
 </div>
 
 > ## Tecnologias
@@ -17,7 +17,7 @@
 </div>
 
 > ## Status do perfil
-![](https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29)
+![](https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
 
 > ## Social
