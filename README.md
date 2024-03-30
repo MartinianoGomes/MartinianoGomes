@@ -1,8 +1,9 @@
 > # Oopa, seja bem-vindo(a) ao meu perfil. Me chamo Martiniano Gomes! 👋
-<img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Profile%20Views&color=12&icon=5&pretty=true" />
 🏫 Graduando em Sistemas de Informação <br>
 ⚡ Programação e tecnologias <br>
 📫 Maranhão <-> Pará <br>
+
+<img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Profile%20Views&color=12&icon=5&pretty=true" />
 
 > ## Tecnologias
 <div id="Tech">
