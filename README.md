@@ -17,8 +17,10 @@
 </div>
 
 > ## Status do perfil
-![](https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinianogomes&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
+</div>
 
 > ## Social
 <div id="Social">
