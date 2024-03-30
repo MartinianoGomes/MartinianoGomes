@@ -4,8 +4,13 @@
 - ⚡ Programação e tecnologias
 - 📫 Maranhão <-> Pará
 
-> ## Contato
-<div>
+> ## Tecnologias
+<div id="Tech">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+
+> ## Social
+<div id="Social">
   <a href="https://instagram.com/martiniano.gomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:uricanooriental@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/martiniano-gomes-7953801b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
