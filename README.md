@@ -3,7 +3,9 @@
 ⚡ Programação e tecnologias <br>
 📫 Maranhão <-> Pará <br>
 
-<img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Profile%20Views&color=12&icon=5&pretty=true"/>
+<div>
+  <img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Profile%20Views&color=12&icon=5&pretty=true"/>
+</div>
 
 > ## Tecnologias
 <div id="Tech">
