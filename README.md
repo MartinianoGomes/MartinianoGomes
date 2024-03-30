@@ -15,7 +15,7 @@
 </div>
 
 > ## Status do perfil
-![](https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinianogomes&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 > ## Social
