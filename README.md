@@ -1,7 +1,3 @@
-<div align=center>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=250&color=black&text=Input%20text&section=header&reversal=false&textBg=false&fontAlign=75&fontAlignY=35&animation=fadeIn">
-</div>
-
 > # Oopa, seja bem-vindo(a) ao meu perfil. Me chamo Martiniano Gomes! 👋
 <div>
   🏫 Graduando em Sistemas de Informação <br>
