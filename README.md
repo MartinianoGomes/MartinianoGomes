@@ -5,8 +5,18 @@
   📫 Maranhão <-> Pará <br>
 </div>
 
-<div>
-  <img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Visualizações%20do%20perfil&color=12&icon=5&pretty=true">
+<div align="center">
+  <br>
+  <p align="centre">
+    <b>Contador de Visitas</b>
+  </p>
+  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{martinianogomes}/count.svg"/>
+  </p>
+  <!--setInterval(() => {
+    window.location.reload();
+  }, 100); // atualiza a página a cada 100 milisegudos kkk-->
 </div>
 
 > ## Tecnologias
@@ -16,6 +26,8 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=black">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=blue&color=black">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=red&color=black">
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=blue&labelColor=0D1117">
 </div>
 
 > ## Status do perfil
