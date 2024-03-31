@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=black">
   <img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=blue&labelColor=black">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=9A8616&color=black">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=red&color=black">
 </div>
 
 > ## Status do perfil
