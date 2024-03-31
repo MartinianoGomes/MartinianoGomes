@@ -3,8 +3,6 @@
 ⚡ Programação e tecnologias <br>
 📫 Maranhão <-> Pará <br>
 
-
-
 <div>
   <img src="https://visitcount.itsvg.in/api?id=martinianogomes&label=Visualizações%20do%20perfil&color=12&icon=5&pretty=true"/>
 </div>
