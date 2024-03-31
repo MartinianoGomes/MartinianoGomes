@@ -35,6 +35,7 @@
 <!-- 
 Guia básico de MarkDown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 Tecnologia de estilização de github (Topíssimo - Visitar): https://capsule-render.vercel.app/
+Tecnologia de escrever no github: https://readme-typing-svg.herokuapp.com/demo/
 -->
 
 <!--
