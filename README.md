@@ -1,13 +1,14 @@
 > # Oopa, seja bem-vindo(a) ao meu perfil. Me chamo Martiniano Gomes! 👋
+
 <div>
   🏫 Graduando em Sistemas de Informação <br>
   ⚡ Programação e tecnologias <br>
   📫 Maranhão <-> Pará <br>
 </div>
 
-<div align="right">
+<div align="center">
   <br>
-  <b align="center">CONTADOR DE VISITAS</b>
+  <b>CONTADOR DE VISITAS</b>
   <br>
   <img src="https://profile-counter.glitch.me/{martinianogomes}/count.svg"/
 </div>
