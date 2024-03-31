@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&color=black&section=header&reversal=false&textBg=false&fontSize=71&fontColor=999999&animation=fadeIn">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&color=black&section=header&reversal=false&textBg=false">
 
 > # Oopa, seja bem-vindo(a) ao meu perfil. Me chamo Martiniano Gomes! 👋
 
