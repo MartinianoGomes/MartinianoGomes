@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&color=black&section=header&reversal=false&textBg=false">
 
-> # Oopa, seja bem-vindo(a) ao meu perfil. Me chamo Martiniano Gomes! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&random=false&width=580&lines=Oopa%2C+seja+bem-vindo(a)+ao+meu+perfil!;Me+chamo+Martiniano+Gomes!+%F0%9F%91%8B">
+</div>
 
 <div>
   🏫 Graduando em Sistemas de Informação <br>
