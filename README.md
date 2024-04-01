@@ -14,7 +14,7 @@
   <br>
   <b>CONTADOR DE VISITAS</b>
   <br>
-  <img src="https://profile-counter.glitch.me/{martinianogomes}/count.svg"/
+  <img src="https://profile-counter.glitch.me/{martinianogomes}/count.svg"/>
 </div>
 
 <div id="Tech" align=center
