@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=martinianogomes&style=plastic">
+  <img src="https://komarev.com/ghpvc/?username=martinianogomes&style=plastic&abbreviated=true&label=PROFILE+VIEWS">
 </div>
 
 <div id="Tech" align=center
