@@ -7,14 +7,11 @@
 <div>
   🏫 Graduando em Sistemas de Informação <br>
   ⚡ Programação e tecnologias <br>
-  📫 Maranhão <-> Pará <br>
+  📫 Maranhão <-> Pará
 </div>
 
-<div align="center">
-  <br>
-  <b>CONTADOR DE VISITAS</b>
-  <br>
-  <img src="https://profile-counter.glitch.me/{martinianogomes}/count.svg"/>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=martinianogomes&style=plastic">
 </div>
 
 <div id="Tech" align=center
