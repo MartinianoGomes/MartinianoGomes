@@ -40,8 +40,8 @@
   <br>
   <div><h2>STATUS DO PERFIL</h2></div>
   
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinianogomes&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github&custom_title=Estatísticas%20do%20Perfil">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinianogomes&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=donut&custom_title=Linguagens%20mais%20Usadas">
   <img height=298 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinianogomes&theme=apprentice&hide_border=false">
 </div>
 
