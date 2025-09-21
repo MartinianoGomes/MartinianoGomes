@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/martiniano-gomes-7953801b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-230077B5?style=plastic&logo=linkedin&logoColor=blue&color=black" target="_blank"></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&color=black&section=footer&reversal=true&textBg=false&fontSize=71&fontColor=999999&animation=fadeIn">
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&color=black&section=footer&reversal=true&textBg=false&fontSize=71&fontColor=999999&animation=fadeIn"> -->
 
 <!-- 
 Guia básico de MarkDown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
