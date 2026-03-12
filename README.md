@@ -4,7 +4,7 @@
     <a href="https://drive.google.com/file/d/1I8mW9ok3XThbuAOPKjF1tTyn_1wNGb4p/view?usp=sharing" target="_blank"><img align="center" src="https://img.shields.io/badge/view-resume-red?style=for-the-badge"></a>
 </h1>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0">
 <tr>
 <td>
 <div align="left">
