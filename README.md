@@ -11,5 +11,3 @@
 - 🖥️ I'm a Software Engineer.
 - ⚙️ I work with Node.js, Typescript, MongoDB and PostgreSQL in the backend.
 - 🎨 I also work with React and Tailwind CSS in the frontend.
-
-</table>
