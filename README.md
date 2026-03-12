@@ -20,9 +20,3 @@
 - ⚙️ `Node.js` and `Typescript` in the backend.
 - 🎨 `React` and `Tailwind CSS` in the frontend.
 - 🔐 `MongoDB` and `PostgreSQL` for database.
-
-<h3>Tools</h3>
-
-- Docker
-- Git
-- Linux
