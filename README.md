@@ -6,9 +6,9 @@
 
 <br>
 
-- 🖥️ I'm a Software Engineer.
-- ⚙️ I work with Node.js, Typescript, MongoDB and PostgreSQL in the backend.
-- 🎨 I also work with React and Tailwind CSS in the frontend.
+- 🖥️ I'm a `Software Engineer`.
+- ⚙️ I work with `Node.js`, `Typescript`, `MongoDB` and `PostgreSQL` in the backend.
+- 🎨 I also work with `React` and `Tailwind CSS` in the frontend.
 
 <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=martinianogomes&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS">
