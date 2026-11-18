@@ -1,22 +1,23 @@
-<h1 align="left">
-    Martiniano Gomes
-    <a href="https://drive.google.com/file/d/1I8mW9ok3XThbuAOPKjF1tTyn_1wNGb4p/view?usp=sharing" target="blank"><img align="right" src="https://img.shields.io/badge/resume--red?style=for-the-badge"></a>
-</h1>
+# Martiniano Gomes
 
-<img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=martinianogomes&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github&custom_title=Estatísticas%20do%20Perfil">
+Software Engineer - backend em Node.js/TypeScript, frontend em Angular, com trabalho ativo em soluções de IA generativa (LLMs e Retrieval-Augmented Generation).
 
-<!-- <img align="right" src="https://komarev.com/ghpvc/?username=martinianogomes&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS"> -->
+## O que faço hoje
 
-<div align="center">
+- Full Stack Developer na Divisão de Sistemas (DISI) do CTIC/UNIFESSPA - atualmente desenvolvendo o frontend em Angular dos sistemas internos da universidade.
+- Contribuo no grupo [RSPLE](https://github.com/RSPLE), onde implementamos e avaliamos seis arquiteturas de RAG comparadas sob o mesmo protocolo (RAGAS + LangSmith).
 
-</div>
+## Stack
 
-<h3>About</h3>
+- **Backend:** Node.js, TypeScript, SQL
+- **Frontend:** Angular, CSS
+- **IA:** Python, LangChain, LangGraph, RAGAS, LangSmith
+- **Outros:** Git, metodologias ágeis
 
-🖥️ I'm a `Software Engineer` focused on building modern, scalable and well-structured web applications.
+## Formação
 
-<h3>Technologies</h3>
+Bacharelado em Sistemas de Informação — UNIFESSPA (conclusão prevista: jan/2027).
 
-- ⚙️ `Node.js` and `Typescript` in the backend.
-- 🎨 `React` and `Tailwind CSS` in the frontend.
-- 🔐 `MongoDB` and `PostgreSQL` for database.
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/martiniano-gomes-7953801b2/)
